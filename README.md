@@ -1,2 +1,2 @@
 # catnipcove
-catnipcove is a movie site for all things
+catnipcove is a video site for all things for all catmeow city and cat news
